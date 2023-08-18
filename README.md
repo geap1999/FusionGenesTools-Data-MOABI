@@ -1,2 +1,2 @@
 # ParsingScript-MOABI
-Script that parses data coming from different fusion gene tools output file.
+Script that parses data coming from fusionfusion, SplitFusion, Factera (Intergene and Interexon), Breakdancer and Lumpy-sv output file.
